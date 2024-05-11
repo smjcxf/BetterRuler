@@ -30,8 +30,8 @@ http:
 
 script-providers:
   "YouTube请求_10":
-    url: https://cdn.jsdelivr.net/gh/Akimio521/BetterRuler@main/Script/YouTube/YouTube_remove_ads_request.js
+    url: https://raw.smjc.cc/https://raw.githubusercontent.com/smjcxf/BetterRuler/main/Script/YouTube/youtube.request.preview.js
     interval: 86400
   "YouTube响应_11":
-    url: https://cdn.jsdelivr.net/gh/Akimio521/BetterRuler@main/Script/YouTube/YouTube_remove_ads_response.js
+    url: https://raw.smjc.cc/https://raw.githubusercontent.com/smjcxf/BetterRuler/main/Script/YouTube/youtube.request.preview.js
     interval: 86400
